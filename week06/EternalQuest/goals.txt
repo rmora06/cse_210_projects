@@ -1,0 +1,4 @@
+160
+SimpleGoal|Dar un discurso|Discursar en la reunion sacramental|100|True
+EternalGoal|Estudiar las escrituras|Estudiar 15 min al dia|10
+ChecklistGoal|Ir al Templo|Ir al templo y hacer investidura|50|5|1|500
